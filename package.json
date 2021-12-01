@@ -1,0 +1,21 @@
+{
+  "name": "account-management-backend-level-3",
+  "version": "0.0.1",
+  "scripts": {
+    "test": ".\\node_modules\\.bin\\cypress open",
+    "start": "node server.js"
+  },
+  "devDependencies": {
+    "cypress": "^5.6.0",
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "helmet": "^4.6.0",
+    "joi": "^17.4.2",
+    "joi-objectid": "^4.0.2",
+    "mongoose": "^6.0.13",
+    "open": "^8.4.0"
+  }
+}

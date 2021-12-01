@@ -1,0 +1,7 @@
+{
+  "env": {
+    "apiUrl": "http://localhost:3030/api",
+    "responseTimeout": 50000,
+    "requestTimeout": 10000
+  }
+}
